@@ -4,7 +4,7 @@
 ![image](img/example.png)
 
 Endpoint:  
-> `https://api.openweathermap.org/data/2.5?q={location}&appid={API_KEY}&units=metric` 
+> `https://api.openweathermap.org/data/2.5/weather?q={location}&appid={API_KEY}&units=metric` 
 
 Documentation is at:  
 > https://openweathermap.org/weather-conditions  
